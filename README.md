@@ -1,0 +1,1 @@
+Program to pull down the firewall policy from a fortigate firewall and put into a CSV. This will allow me to put into my Excel form for auditing the firewall configs on a bi yearly basis.
